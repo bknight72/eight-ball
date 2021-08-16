@@ -1,13 +1,8 @@
 
 # Magic 8 Ball 🎱
 
-## Our Goal
+As part of a udemy course to learn flutter, I have created a simple 8-ball app where you can "shake" up an image of an 8-ball and recieve answers for your questions. 
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+## Final Product
+![image](https://user-images.githubusercontent.com/79337953/129603266-9918422d-4dd4-40a0-8ad9-a536e7621532.png)
 
-
-## What you will create
-
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
